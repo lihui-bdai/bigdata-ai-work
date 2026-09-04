@@ -15,6 +15,11 @@ Skill 是将特定任务的知识和流程打包成可复用的模块。
 ## 使用边界
 Skill 依赖底层模型的能力，无法超越模型本身的限制。
 
+## 我的理解
+Skill 就是把"怎么做某件事"的经验打包成一个模板。这样下次做同样的事，就不用从头再问一遍 AI，直接调用 Skill 就行。
+
 ## 参考来源
-https://github.com/thoughtworks/workbuddy
-```
+- WorkBuddy 官方文档 - Skill 使用指南
+  https://docs.workbuddy.ai/skills
+- Anthropic: Building effective agents
+  https://www.anthropic.com/research/building-effective-agents
